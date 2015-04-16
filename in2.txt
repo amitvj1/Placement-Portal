@@ -1,0 +1,481 @@
+['\n', <ul class="post-86480 topic type-topic status-publish hentry odd bbp-parent-forum-72153 user-id-9151" id="topic-86480">
+<li class="bbp-topic-title">
+<a class="bbp-topic-permalink" href="http://www.geeksforgeeks.org/forums/topic/number-of-possible-strings-2/" title="Number of possible strings">Number of possible strings</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-started-by">Started by: <a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/shubhamjain/" rel="nofollow" title="View shubhamjain's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/shubhamjain/" rel="nofollow" title="View shubhamjain's profile">shubhamjain</a></span>
+<span class="bbp-topic-started-in">in: <a href="http://www.geeksforgeeks.org/forums/forum/interview-questions/">Interview Questions</a></span>
+</p>
+</li>
+<li class="bbp-topic-voice-count">13</li>
+<li class="bbp-topic-reply-count">17</li>
+<li class="bbp-topic-freshness">
+<a href="http://www.geeksforgeeks.org/forums/topic/number-of-possible-strings-2/#post-132823" title="Reply To: Number of possible strings">13 hours, 14 minutes ago</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-freshness-author"><a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/sawyna/" rel="nofollow" title="View sawyna's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/sawyna/" rel="nofollow" title="View sawyna's profile">sawyna</a></span>
+</p>
+</li>
+</ul>, ' #topic-86480 ', '\n', <ul class="post-131104 topic type-topic status-publish hentry even bbp-parent-forum-72153 user-id-31957" id="topic-131104">
+<li class="bbp-topic-title">
+<a class="bbp-topic-permalink" href="http://www.geeksforgeeks.org/forums/topic/array-duplication/" title="Array Duplication">Array Duplication</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-started-by">Started by: <a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/ibp73/" rel="nofollow" title="View ibp73's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/ibp73/" rel="nofollow" title="View ibp73's profile">ibp73</a></span>
+<span class="bbp-topic-started-in">in: <a href="http://www.geeksforgeeks.org/forums/forum/interview-questions/">Interview Questions</a></span>
+</p>
+</li>
+<li class="bbp-topic-voice-count">2</li>
+<li class="bbp-topic-reply-count">2</li>
+<li class="bbp-topic-freshness">
+<a href="http://www.geeksforgeeks.org/forums/topic/array-duplication/#post-132821" title="Reply To: Array Duplication">2 days, 6 hours ago</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-freshness-author"><a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/ranganath/" rel="nofollow" title="View ranganath's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/ranganath/" rel="nofollow" title="View ranganath's profile">ranganath</a></span>
+</p>
+</li>
+</ul>, ' #topic-131104 ', '\n', <ul class="post-74178 topic type-topic status-publish hentry odd bbp-parent-forum-72153 user-id-174" id="topic-74178">
+<li class="bbp-topic-title">
+<a class="bbp-topic-permalink" href="http://www.geeksforgeeks.org/forums/topic/amazon-interview-question-for-software-engineerdeveloper-about-algorithms-arrays-29/" title="Amazon Interview Question for Software Engineer/Developer about Algorithms, Arrays">Amazon Interview Question for Software Engineer/Developer about Algorithms, Arrays</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-started-by">Started by: <a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/dheeraj/" rel="nofollow" title="View Dheeraj's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/dheeraj/" rel="nofollow" title="View Dheeraj's profile">Dheeraj</a></span>
+<span class="bbp-topic-started-in">in: <a href="http://www.geeksforgeeks.org/forums/forum/interview-questions/">Interview Questions</a></span>
+</p>
+</li>
+<li class="bbp-topic-voice-count">6</li>
+<li class="bbp-topic-reply-count">6</li>
+<li class="bbp-topic-freshness">
+<a href="http://www.geeksforgeeks.org/forums/topic/amazon-interview-question-for-software-engineerdeveloper-about-algorithms-arrays-29/#post-132815" title="Reply To: Amazon Interview Question for Software Engineer/Developer about Algorithms, Arrays">2 days, 11 hours ago</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-freshness-author"><a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/sanjayahuja-iitggmail-com/" rel="nofollow" title="View sanjay ahuja's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/sanjayahuja-iitggmail-com/" rel="nofollow" title="View sanjay ahuja's profile">sanjay ahuja</a></span>
+</p>
+</li>
+</ul>, ' #topic-74178 ', '\n', <ul class="post-87346 topic type-topic status-publish hentry even bbp-parent-forum-72153 user-id-4134" id="topic-87346">
+<li class="bbp-topic-title">
+<a class="bbp-topic-permalink" href="http://www.geeksforgeeks.org/forums/topic/google-interview-question-17/" title="Google Interview question">Google Interview question</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-started-by">Started by: <a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/gautam5669/" rel="nofollow" title="View Kumar's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/gautam5669/" rel="nofollow" title="View Kumar's profile">Kumar</a></span>
+<span class="bbp-topic-started-in">in: <a href="http://www.geeksforgeeks.org/forums/forum/interview-questions/">Interview Questions</a></span>
+</p>
+</li>
+<li class="bbp-topic-voice-count">10</li>
+<li class="bbp-topic-reply-count">22</li>
+<li class="bbp-topic-freshness">
+<a href="http://www.geeksforgeeks.org/forums/topic/google-interview-question-17/#post-132802" title="Reply To: Google Interview question">3 days, 15 hours ago</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-freshness-author"><a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/kuldeepyadav/" rel="nofollow" title="View kuldeepyadav's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/kuldeepyadav/" rel="nofollow" title="View kuldeepyadav's profile">kuldeepyadav</a></span>
+</p>
+</li>
+</ul>, ' #topic-87346 ', '\n', <ul class="post-73813 topic type-topic status-publish hentry odd bbp-parent-forum-72153 user-id-59" id="topic-73813">
+<li class="bbp-topic-title">
+<a class="bbp-topic-permalink" href="http://www.geeksforgeeks.org/forums/topic/how-to-sort-a-stack-without-using-external-stack/" title="How to sort a stack without using external stack?">How to sort a stack without using external stack?</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-started-by">Started by:  Anonymous</span>
+<span class="bbp-topic-started-in">in: <a href="http://www.geeksforgeeks.org/forums/forum/interview-questions/">Interview Questions</a></span>
+</p>
+</li>
+<li class="bbp-topic-voice-count">3</li>
+<li class="bbp-topic-reply-count">5</li>
+<li class="bbp-topic-freshness">
+<a href="http://www.geeksforgeeks.org/forums/topic/how-to-sort-a-stack-without-using-external-stack/#post-132797" title="Reply To: How to sort a stack without using external stack?">4 days, 4 hours ago</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-freshness-author"><a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/dhaval-dave/" rel="nofollow" title="View Dhaval Dave's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/dhaval-dave/" rel="nofollow" title="View Dhaval Dave's profile">Dhaval Dave</a></span>
+</p>
+</li>
+</ul>, ' #topic-73813 ', '\n', <ul class="post-86562 topic type-topic status-publish hentry even bbp-parent-forum-72148 user-id-7625" id="topic-86562">
+<li class="bbp-topic-title">
+<a class="bbp-topic-permalink" href="http://www.geeksforgeeks.org/forums/topic/array-asked-in-google/" title="array ..asked in google">array ..asked in google</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-started-by">Started by: <a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/iit-gupta/" rel="nofollow" title="View iit.gupta's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/iit-gupta/" rel="nofollow" title="View iit.gupta's profile">iit.gupta</a></span>
+<span class="bbp-topic-started-in">in: <a href="http://www.geeksforgeeks.org/forums/forum/algorithms/">Algorithms</a></span>
+</p>
+</li>
+<li class="bbp-topic-voice-count">8</li>
+<li class="bbp-topic-reply-count">9</li>
+<li class="bbp-topic-freshness">
+<a href="http://www.geeksforgeeks.org/forums/topic/array-asked-in-google/#post-132794" title="Reply To: array ..asked in google">4 days, 9 hours ago</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-freshness-author"><a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/xuqing/" rel="nofollow" title="View xuqing's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/xuqing/" rel="nofollow" title="View xuqing's profile">xuqing</a></span>
+</p>
+</li>
+</ul>, ' #topic-86562 ', '\n', <ul class="post-132780 topic type-topic status-publish hentry odd bbp-parent-forum-72153 user-id-41277" id="topic-132780">
+<li class="bbp-topic-title">
+<a class="bbp-topic-permalink" href="http://www.geeksforgeeks.org/forums/topic/kindly-reply-this/" title="kindly reply this…">kindly reply this…</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-started-by">Started by: <a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/help-me_1234/" rel="nofollow" title="View help me_1234's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/help-me_1234/" rel="nofollow" title="View help me_1234's profile">help me_1234</a></span>
+<span class="bbp-topic-started-in">in: <a href="http://www.geeksforgeeks.org/forums/forum/interview-questions/">Interview Questions</a></span>
+</p>
+</li>
+<li class="bbp-topic-voice-count">1</li>
+<li class="bbp-topic-reply-count">1</li>
+<li class="bbp-topic-freshness">
+<a href="http://www.geeksforgeeks.org/forums/topic/kindly-reply-this/" title="kindly reply this…">5 days, 4 hours ago</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-freshness-author"><a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/help-me_1234/" rel="nofollow" title="View help me_1234's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/help-me_1234/" rel="nofollow" title="View help me_1234's profile">help me_1234</a></span>
+</p>
+</li>
+</ul>, ' #topic-132780 ', '\n', <ul class="post-87337 topic type-topic status-publish hentry even bbp-parent-forum-72153 user-id-8031" id="topic-87337">
+<li class="bbp-topic-title">
+<a class="bbp-topic-permalink" href="http://www.geeksforgeeks.org/forums/topic/trees-8/" title="TREES">TREES</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-started-by">Started by: <a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/nishu/" rel="nofollow" title="View nishu's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/nishu/" rel="nofollow" title="View nishu's profile">nishu</a></span>
+<span class="bbp-topic-started-in">in: <a href="http://www.geeksforgeeks.org/forums/forum/interview-questions/">Interview Questions</a></span>
+</p>
+</li>
+<li class="bbp-topic-voice-count">2</li>
+<li class="bbp-topic-reply-count">2</li>
+<li class="bbp-topic-freshness">
+<a href="http://www.geeksforgeeks.org/forums/topic/trees-8/#post-132778" title="Reply To: TREES">5 days, 11 hours ago</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-freshness-author"><a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/kannu/" rel="nofollow" title="View kannu's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/kannu/" rel="nofollow" title="View kannu's profile">kannu</a></span>
+</p>
+</li>
+</ul>, ' #topic-87337 ', '\n', <ul class="post-132773 topic type-topic status-publish hentry odd bbp-parent-forum-72148 user-id-33389" id="topic-132773">
+<li class="bbp-topic-title">
+<a class="bbp-topic-permalink" href="http://www.geeksforgeeks.org/forums/topic/a-probability-question-2/" title="A probability question!">A probability question!</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-started-by">Started by: <a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/srinija/" rel="nofollow" title="View Hodor's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/srinija/" rel="nofollow" title="View Hodor's profile">Hodor</a></span>
+<span class="bbp-topic-started-in">in: <a href="http://www.geeksforgeeks.org/forums/forum/algorithms/">Algorithms</a></span>
+</p>
+</li>
+<li class="bbp-topic-voice-count">2</li>
+<li class="bbp-topic-reply-count">2</li>
+<li class="bbp-topic-freshness">
+<a href="http://www.geeksforgeeks.org/forums/topic/a-probability-question-2/#post-132774" title="Reply To: A probability question!">5 days, 20 hours ago</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-freshness-author"><a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/igor_pisarev/" rel="nofollow" title="View igor_pisarev's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/igor_pisarev/" rel="nofollow" title="View igor_pisarev's profile">igor_pisarev</a></span>
+</p>
+</li>
+</ul>, ' #topic-132773 ', '\n', <ul class="post-132771 topic type-topic status-publish hentry even bbp-parent-forum-72150 user-id-41231" id="topic-132771">
+<li class="bbp-topic-title">
+<a class="bbp-topic-permalink" href="http://www.geeksforgeeks.org/forums/topic/about-a-book/" title="about a book">about a book</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-started-by">Started by: <a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/sanjay-rawal/" rel="nofollow" title="View sanjay Rawal's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/sanjay-rawal/" rel="nofollow" title="View sanjay Rawal's profile">sanjay Rawal</a></span>
+<span class="bbp-topic-started-in">in: <a href="http://www.geeksforgeeks.org/forums/forum/miscellaneous/">Miscellaneous</a></span>
+</p>
+</li>
+<li class="bbp-topic-voice-count">1</li>
+<li class="bbp-topic-reply-count">1</li>
+<li class="bbp-topic-freshness">
+<a href="http://www.geeksforgeeks.org/forums/topic/about-a-book/" title="about a book">6 days, 2 hours ago</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-freshness-author"><a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/sanjay-rawal/" rel="nofollow" title="View sanjay Rawal's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/sanjay-rawal/" rel="nofollow" title="View sanjay Rawal's profile">sanjay Rawal</a></span>
+</p>
+</li>
+</ul>, ' #topic-132771 ', '\n', <ul class="post-125829 topic type-topic status-publish hentry odd bbp-parent-forum-72150 user-id-25459" id="topic-125829">
+<li class="bbp-topic-title">
+<a class="bbp-topic-permalink" href="http://www.geeksforgeeks.org/forums/topic/gate-2007-question/" title="Gate 2007 question">Gate 2007 question</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-started-by">Started by: <a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/om2006/" rel="nofollow" title="View om2006's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/om2006/" rel="nofollow" title="View om2006's profile">om2006</a></span>
+<span class="bbp-topic-started-in">in: <a href="http://www.geeksforgeeks.org/forums/forum/miscellaneous/">Miscellaneous</a></span>
+</p>
+</li>
+<li class="bbp-topic-voice-count">2</li>
+<li class="bbp-topic-reply-count">2</li>
+<li class="bbp-topic-freshness">
+<a href="http://www.geeksforgeeks.org/forums/topic/gate-2007-question/#post-132770" title="Reply To: Gate 2007 question">6 days, 6 hours ago</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-freshness-author"><a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/afaque205/" rel="nofollow" title="View afaque205's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/afaque205/" rel="nofollow" title="View afaque205's profile">afaque205</a></span>
+</p>
+</li>
+</ul>, ' #topic-125829 ', '\n', <ul class="post-131740 topic type-topic status-publish hentry even bbp-parent-forum-72153 user-id-1193" id="topic-131740">
+<li class="bbp-topic-title">
+<a class="bbp-topic-permalink" href="http://www.geeksforgeeks.org/forums/topic/aloha-numbers/" title="Aloha Numbers">Aloha Numbers</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-started-by">Started by: <a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/abhamish27/" rel="nofollow" title="View abhamish27's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/abhamish27/" rel="nofollow" title="View abhamish27's profile">abhamish27</a></span>
+<span class="bbp-topic-started-in">in: <a href="http://www.geeksforgeeks.org/forums/forum/interview-questions/">Interview Questions</a></span>
+</p>
+</li>
+<li class="bbp-topic-voice-count">2</li>
+<li class="bbp-topic-reply-count">5</li>
+<li class="bbp-topic-freshness">
+<a href="http://www.geeksforgeeks.org/forums/topic/aloha-numbers/#post-132769" title="Reply To: Aloha Numbers">6 days, 8 hours ago</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-freshness-author"><a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/lokeshkalal/" rel="nofollow" title="View lokeshkalal's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/lokeshkalal/" rel="nofollow" title="View lokeshkalal's profile">lokeshkalal</a></span>
+</p>
+</li>
+</ul>, ' #topic-131740 ', '\n', <ul class="post-132763 topic type-topic status-publish hentry odd bbp-parent-forum-72143 user-id-28911" id="topic-132763">
+<li class="bbp-topic-title">
+<a class="bbp-topic-permalink" href="http://www.geeksforgeeks.org/forums/topic/operator-overloading/" title="Operator overloading">Operator overloading</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-started-by">Started by: <a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/naganoor/" rel="nofollow" title="View naganoor's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/naganoor/" rel="nofollow" title="View naganoor's profile">naganoor</a></span>
+<span class="bbp-topic-started-in">in: <a href="http://www.geeksforgeeks.org/forums/forum/c-specific-questions/">C/C++ Programming Questions</a></span>
+</p>
+</li>
+<li class="bbp-topic-voice-count">1</li>
+<li class="bbp-topic-reply-count">1</li>
+<li class="bbp-topic-freshness">
+<a href="http://www.geeksforgeeks.org/forums/topic/operator-overloading/" title="Operator overloading">6 days, 11 hours ago</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-freshness-author"><a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/naganoor/" rel="nofollow" title="View naganoor's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/naganoor/" rel="nofollow" title="View naganoor's profile">naganoor</a></span>
+</p>
+</li>
+</ul>, ' #topic-132763 ', '\n', <ul class="post-132750 topic type-topic status-publish hentry even bbp-parent-forum-72148 user-id-35668" id="topic-132750">
+<li class="bbp-topic-title">
+<a class="bbp-topic-permalink" href="http://www.geeksforgeeks.org/forums/topic/why-quick-sort-is-better-than-merge-sort/" title="Why Quick Sort is better than Merge Sort?">Why Quick Sort is better than Merge Sort?</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-started-by">Started by: <a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/saiavinashiitr/" rel="nofollow" title="View saiavinashiitr's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/saiavinashiitr/" rel="nofollow" title="View saiavinashiitr's profile">saiavinashiitr</a></span>
+<span class="bbp-topic-started-in">in: <a href="http://www.geeksforgeeks.org/forums/forum/algorithms/">Algorithms</a></span>
+</p>
+</li>
+<li class="bbp-topic-voice-count">1</li>
+<li class="bbp-topic-reply-count">1</li>
+<li class="bbp-topic-freshness">
+<a href="http://www.geeksforgeeks.org/forums/topic/why-quick-sort-is-better-than-merge-sort/" title="Why Quick Sort is better than Merge Sort?">1 week ago</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-freshness-author"><a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/saiavinashiitr/" rel="nofollow" title="View saiavinashiitr's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/saiavinashiitr/" rel="nofollow" title="View saiavinashiitr's profile">saiavinashiitr</a></span>
+</p>
+</li>
+</ul>, ' #topic-132750 ', '\n', <ul class="post-132749 topic type-topic status-publish hentry odd bbp-parent-forum-72148 user-id-41158" id="topic-132749">
+<li class="bbp-topic-title">
+<a class="bbp-topic-permalink" href="http://www.geeksforgeeks.org/forums/topic/program-analysis-in-computer-science/" title="program analysis in computer science">program analysis in computer science</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-started-by">Started by: <a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/cubeenowation011/" rel="nofollow" title="View cubeenowation011's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/cubeenowation011/" rel="nofollow" title="View cubeenowation011's profile">cubeenowation011</a></span>
+<span class="bbp-topic-started-in">in: <a href="http://www.geeksforgeeks.org/forums/forum/algorithms/">Algorithms</a></span>
+</p>
+</li>
+<li class="bbp-topic-voice-count">1</li>
+<li class="bbp-topic-reply-count">1</li>
+<li class="bbp-topic-freshness">
+<a href="http://www.geeksforgeeks.org/forums/topic/program-analysis-in-computer-science/" title="program analysis in computer science">1 week ago</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-freshness-author"><a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/cubeenowation011/" rel="nofollow" title="View cubeenowation011's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/cubeenowation011/" rel="nofollow" title="View cubeenowation011's profile">cubeenowation011</a></span>
+</p>
+</li>
+</ul>, ' #topic-132749 ', '\n', <ul class="post-132390 topic type-topic status-publish hentry even bbp-parent-forum-72148 user-id-40546" id="topic-132390">
+<li class="bbp-topic-title">
+<a class="bbp-topic-permalink" href="http://www.geeksforgeeks.org/forums/topic/complexicity/" title="complexicity">complexicity</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-started-by">Started by: <a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/anunithi/" rel="nofollow" title="View anunithi's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/anunithi/" rel="nofollow" title="View anunithi's profile">anunithi</a></span>
+<span class="bbp-topic-started-in">in: <a href="http://www.geeksforgeeks.org/forums/forum/algorithms/">Algorithms</a></span>
+</p>
+</li>
+<li class="bbp-topic-voice-count">2</li>
+<li class="bbp-topic-reply-count">2</li>
+<li class="bbp-topic-freshness">
+<a href="http://www.geeksforgeeks.org/forums/topic/complexicity/#post-132748" title="Reply To: complexicity">1 week ago</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-freshness-author"><a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/pinneti/" rel="nofollow" title="View pinneti's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/pinneti/" rel="nofollow" title="View pinneti's profile">pinneti</a></span>
+</p>
+</li>
+</ul>, ' #topic-132390 ', '\n', <ul class="post-85828 topic type-topic status-publish hentry odd bbp-parent-forum-72153 user-id-59" id="topic-85828">
+<li class="bbp-topic-title">
+<a class="bbp-topic-permalink" href="http://www.geeksforgeeks.org/forums/topic/facebook-interview-question-for-software-engineerdeveloper-about-algorithms-3/" title="Facebook Interview Question for Software Engineer/Developer about Algorithms">Facebook Interview Question for Software Engineer/Developer about Algorithms</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-started-by">Started by:  Anonymous</span>
+<span class="bbp-topic-started-in">in: <a href="http://www.geeksforgeeks.org/forums/forum/interview-questions/">Interview Questions</a></span>
+</p>
+</li>
+<li class="bbp-topic-voice-count">5</li>
+<li class="bbp-topic-reply-count">5</li>
+<li class="bbp-topic-freshness">
+<a href="http://www.geeksforgeeks.org/forums/topic/facebook-interview-question-for-software-engineerdeveloper-about-algorithms-3/#post-132747" title="Reply To: Facebook Interview Question for Software Engineer/Developer about Algorithms">1 week ago</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-freshness-author"><a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/baker/" rel="nofollow" title="View baker's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/baker/" rel="nofollow" title="View baker's profile">baker</a></span>
+</p>
+</li>
+</ul>, ' #topic-85828 ', '\n', <ul class="post-132737 topic type-topic status-publish hentry even bbp-parent-forum-72153 user-id-41106" id="topic-132737">
+<li class="bbp-topic-title">
+<a class="bbp-topic-permalink" href="http://www.geeksforgeeks.org/forums/topic/find-transition-point-of-odd-to-even-or-even-to-odd-number-in-a-array/" title="Find transition point of odd to even or even to odd number in a array">Find transition point of odd to even or even to odd number in a array</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-started-by">Started by: <a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/sachinvd/" rel="nofollow" title="View sachinvd's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/sachinvd/" rel="nofollow" title="View sachinvd's profile">sachinvd</a></span>
+<span class="bbp-topic-started-in">in: <a href="http://www.geeksforgeeks.org/forums/forum/interview-questions/">Interview Questions</a></span>
+</p>
+</li>
+<li class="bbp-topic-voice-count">1</li>
+<li class="bbp-topic-reply-count">1</li>
+<li class="bbp-topic-freshness">
+<a href="http://www.geeksforgeeks.org/forums/topic/find-transition-point-of-odd-to-even-or-even-to-odd-number-in-a-array/" title="Find transition point of odd to even or even to odd number in a array">1 week, 1 day ago</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-freshness-author"><a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/sachinvd/" rel="nofollow" title="View sachinvd's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/sachinvd/" rel="nofollow" title="View sachinvd's profile">sachinvd</a></span>
+</p>
+</li>
+</ul>, ' #topic-132737 ', '\n', <ul class="post-132736 topic type-topic status-publish hentry odd bbp-parent-forum-72143 user-id-41105" id="topic-132736">
+<li class="bbp-topic-title">
+<a class="bbp-topic-permalink" href="http://www.geeksforgeeks.org/forums/topic/mincost-program-extension/" title="Mincost Program extension..">Mincost Program extension..</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-started-by">Started by: <a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/begi1/" rel="nofollow" title="View Begi1's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/begi1/" rel="nofollow" title="View Begi1's profile">Begi1</a></span>
+<span class="bbp-topic-started-in">in: <a href="http://www.geeksforgeeks.org/forums/forum/c-specific-questions/">C/C++ Programming Questions</a></span>
+</p>
+</li>
+<li class="bbp-topic-voice-count">1</li>
+<li class="bbp-topic-reply-count">1</li>
+<li class="bbp-topic-freshness">
+<a href="http://www.geeksforgeeks.org/forums/topic/mincost-program-extension/" title="Mincost Program extension..">1 week, 1 day ago</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-freshness-author"><a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/begi1/" rel="nofollow" title="View Begi1's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/begi1/" rel="nofollow" title="View Begi1's profile">Begi1</a></span>
+</p>
+</li>
+</ul>, ' #topic-132736 ', '\n', <ul class="post-73809 topic type-topic status-publish hentry even bbp-parent-forum-72153 user-id-59" id="topic-73809">
+<li class="bbp-topic-title">
+<a class="bbp-topic-permalink" href="http://www.geeksforgeeks.org/forums/topic/interview-question-for-software-engineerdeveloper-about-linked-lists/" title="Interview Question for Software Engineer/Developer about Linked Lists">Interview Question for Software Engineer/Developer about Linked Lists</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-started-by">Started by:  Anonymous</span>
+<span class="bbp-topic-started-in">in: <a href="http://www.geeksforgeeks.org/forums/forum/interview-questions/">Interview Questions</a></span>
+</p>
+</li>
+<li class="bbp-topic-voice-count">3</li>
+<li class="bbp-topic-reply-count">5</li>
+<li class="bbp-topic-freshness">
+<a href="http://www.geeksforgeeks.org/forums/topic/interview-question-for-software-engineerdeveloper-about-linked-lists/#post-132731" title="Reply To: Interview Question for Software Engineer/Developer about Linked Lists">1 week, 1 day ago</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-freshness-author"><a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/rituraj001/" rel="nofollow" title="View raj's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/rituraj001/" rel="nofollow" title="View raj's profile">raj</a></span>
+</p>
+</li>
+</ul>, ' #topic-73809 ', '\n', <ul class="post-132720 topic type-topic status-publish hentry odd bbp-parent-forum-72143 user-id-37611" id="topic-132720">
+<li class="bbp-topic-title">
+<a class="bbp-topic-permalink" href="http://www.geeksforgeeks.org/forums/topic/output-in-c/" title="output in c">output in c</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-started-by">Started by: <a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/aa1992/" rel="nofollow" title="View aa1992's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/aa1992/" rel="nofollow" title="View aa1992's profile">aa1992</a></span>
+<span class="bbp-topic-started-in">in: <a href="http://www.geeksforgeeks.org/forums/forum/c-specific-questions/">C/C++ Programming Questions</a></span>
+</p>
+</li>
+<li class="bbp-topic-voice-count">2</li>
+<li class="bbp-topic-reply-count">2</li>
+<li class="bbp-topic-freshness">
+<a href="http://www.geeksforgeeks.org/forums/topic/output-in-c/#post-132723" title="Reply To: output in c">1 week, 2 days ago</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-freshness-author"><a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/ramdas/" rel="nofollow" title="View ramdas's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/ramdas/" rel="nofollow" title="View ramdas's profile">ramdas</a></span>
+</p>
+</li>
+</ul>, ' #topic-132720 ', '\n', <ul class="post-132721 topic type-topic status-publish hentry even bbp-parent-forum-72143 user-id-13783" id="topic-132721">
+<li class="bbp-topic-title">
+<a class="bbp-topic-permalink" href="http://www.geeksforgeeks.org/forums/topic/return-type-of-a-function-if-void/" title="return type of a function if void">return type of a function if void</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-started-by">Started by: <a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/ramdas/" rel="nofollow" title="View ramdas's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/ramdas/" rel="nofollow" title="View ramdas's profile">ramdas</a></span>
+<span class="bbp-topic-started-in">in: <a href="http://www.geeksforgeeks.org/forums/forum/c-specific-questions/">C/C++ Programming Questions</a></span>
+</p>
+</li>
+<li class="bbp-topic-voice-count">1</li>
+<li class="bbp-topic-reply-count">1</li>
+<li class="bbp-topic-freshness">
+<a href="http://www.geeksforgeeks.org/forums/topic/return-type-of-a-function-if-void/" title="return type of a function if void">1 week, 2 days ago</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-freshness-author"><a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/ramdas/" rel="nofollow" title="View ramdas's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/ramdas/" rel="nofollow" title="View ramdas's profile">ramdas</a></span>
+</p>
+</li>
+</ul>, ' #topic-132721 ', '\n', <ul class="post-132702 topic type-topic status-publish hentry odd bbp-parent-forum-72153 user-id-37992" id="topic-132702">
+<li class="bbp-topic-title">
+<a class="bbp-topic-permalink" href="http://www.geeksforgeeks.org/forums/topic/samsung-test-question/" title="Samsung test question">Samsung test question</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-started-by">Started by: <a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/swati_185/" rel="nofollow" title="View Swati_185's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/swati_185/" rel="nofollow" title="View Swati_185's profile">Swati_185</a></span>
+<span class="bbp-topic-started-in">in: <a href="http://www.geeksforgeeks.org/forums/forum/interview-questions/">Interview Questions</a></span>
+</p>
+</li>
+<li class="bbp-topic-voice-count">1</li>
+<li class="bbp-topic-reply-count">1</li>
+<li class="bbp-topic-freshness">
+<a href="http://www.geeksforgeeks.org/forums/topic/samsung-test-question/" title="Samsung test question">1 week, 3 days ago</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-freshness-author"><a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/swati_185/" rel="nofollow" title="View Swati_185's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/swati_185/" rel="nofollow" title="View Swati_185's profile">Swati_185</a></span>
+</p>
+</li>
+</ul>, ' #topic-132702 ', '\n', <ul class="post-132617 topic type-topic status-publish hentry even bbp-parent-forum-72148 user-id-10707" id="topic-132617">
+<li class="bbp-topic-title">
+<a class="bbp-topic-permalink" href="http://www.geeksforgeeks.org/forums/topic/flip-and-count/" title="Flip and Count">Flip and Count</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-started-by">Started by: <a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/vickey2cool/" rel="nofollow" title="View Vikas's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/vickey2cool/" rel="nofollow" title="View Vikas's profile">Vikas</a></span>
+<span class="bbp-topic-started-in">in: <a href="http://www.geeksforgeeks.org/forums/forum/algorithms/">Algorithms</a></span>
+</p>
+</li>
+<li class="bbp-topic-voice-count">2</li>
+<li class="bbp-topic-reply-count">2</li>
+<li class="bbp-topic-freshness">
+<a href="http://www.geeksforgeeks.org/forums/topic/flip-and-count/#post-132701" title="Reply To: Flip and Count">1 week, 3 days ago</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-freshness-author"><a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/igor_pisarev/" rel="nofollow" title="View igor_pisarev's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/igor_pisarev/" rel="nofollow" title="View igor_pisarev's profile">igor_pisarev</a></span>
+</p>
+</li>
+</ul>, ' #topic-132617 ', '\n', <ul class="post-132687 topic type-topic status-publish hentry odd bbp-parent-forum-72143 user-id-41018" id="topic-132687">
+<li class="bbp-topic-title">
+<a class="bbp-topic-permalink" href="http://www.geeksforgeeks.org/forums/topic/c-programming-prime-number/" title="C programming prime number">C programming prime number</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-started-by">Started by: <a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/sairamjaya/" rel="nofollow" title="View sairamjaya's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/sairamjaya/" rel="nofollow" title="View sairamjaya's profile">sairamjaya</a></span>
+<span class="bbp-topic-started-in">in: <a href="http://www.geeksforgeeks.org/forums/forum/c-specific-questions/">C/C++ Programming Questions</a></span>
+</p>
+</li>
+<li class="bbp-topic-voice-count">1</li>
+<li class="bbp-topic-reply-count">1</li>
+<li class="bbp-topic-freshness">
+<a href="http://www.geeksforgeeks.org/forums/topic/c-programming-prime-number/" title="C programming prime number">1 week, 3 days ago</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-freshness-author"><a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/sairamjaya/" rel="nofollow" title="View sairamjaya's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/sairamjaya/" rel="nofollow" title="View sairamjaya's profile">sairamjaya</a></span>
+</p>
+</li>
+</ul>, ' #topic-132687 ', '\n', <ul class="post-132670 topic type-topic status-publish hentry even bbp-parent-forum-72153 user-id-40248" id="topic-132670">
+<li class="bbp-topic-title">
+<a class="bbp-topic-permalink" href="http://www.geeksforgeeks.org/forums/topic/how-would-you-deal-with-an-interview-question-in-an-unfamiliar-subject-matter/" title="How would you deal with an interview question in an unfamiliar subject matter">How would you deal with an interview question in an unfamiliar subject matter</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-started-by">Started by: <a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/kayaker1/" rel="nofollow" title="View kayaker1's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/kayaker1/" rel="nofollow" title="View kayaker1's profile">kayaker1</a></span>
+<span class="bbp-topic-started-in">in: <a href="http://www.geeksforgeeks.org/forums/forum/interview-questions/">Interview Questions</a></span>
+</p>
+</li>
+<li class="bbp-topic-voice-count">1</li>
+<li class="bbp-topic-reply-count">1</li>
+<li class="bbp-topic-freshness">
+<a href="http://www.geeksforgeeks.org/forums/topic/how-would-you-deal-with-an-interview-question-in-an-unfamiliar-subject-matter/" title="How would you deal with an interview question in an unfamiliar subject matter">1 week, 3 days ago</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-freshness-author"><a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/kayaker1/" rel="nofollow" title="View kayaker1's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/kayaker1/" rel="nofollow" title="View kayaker1's profile">kayaker1</a></span>
+</p>
+</li>
+</ul>, ' #topic-132670 ', '\n', <ul class="post-132637 topic type-topic status-publish hentry odd bbp-parent-forum-72146 user-id-40983" id="topic-132637">
+<li class="bbp-topic-title">
+<a class="bbp-topic-permalink" href="http://www.geeksforgeeks.org/forums/topic/inorder-preorder-postorder-traversal-of-a-bst/" title="inorder, preorder, postorder traversal of a BST">inorder, preorder, postorder traversal of a BST</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-started-by">Started by: <a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/ishitap/" rel="nofollow" title="View ishitap's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/ishitap/" rel="nofollow" title="View ishitap's profile">ishitap</a></span>
+<span class="bbp-topic-started-in">in: <a href="http://www.geeksforgeeks.org/forums/forum/trees-specific-questions/">Trees specific questions</a></span>
+</p>
+</li>
+<li class="bbp-topic-voice-count">1</li>
+<li class="bbp-topic-reply-count">1</li>
+<li class="bbp-topic-freshness">
+<a href="http://www.geeksforgeeks.org/forums/topic/inorder-preorder-postorder-traversal-of-a-bst/" title="inorder, preorder, postorder traversal of a BST">1 week, 4 days ago</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-freshness-author"><a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/ishitap/" rel="nofollow" title="View ishitap's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/ishitap/" rel="nofollow" title="View ishitap's profile">ishitap</a></span>
+</p>
+</li>
+</ul>, ' #topic-132637 ', '\n', <ul class="post-132636 topic type-topic status-publish hentry even bbp-parent-forum-72150 user-id-40228" id="topic-132636">
+<li class="bbp-topic-title">
+<a class="bbp-topic-permalink" href="http://www.geeksforgeeks.org/forums/topic/student-internship/" title="Student Internship">Student Internship</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-started-by">Started by: <a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/soumava/" rel="nofollow" title="View Soumava's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/soumava/" rel="nofollow" title="View Soumava's profile">Soumava</a></span>
+<span class="bbp-topic-started-in">in: <a href="http://www.geeksforgeeks.org/forums/forum/miscellaneous/">Miscellaneous</a></span>
+</p>
+</li>
+<li class="bbp-topic-voice-count">1</li>
+<li class="bbp-topic-reply-count">1</li>
+<li class="bbp-topic-freshness">
+<a href="http://www.geeksforgeeks.org/forums/topic/student-internship/" title="Student Internship">1 week, 4 days ago</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-freshness-author"><a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/soumava/" rel="nofollow" title="View Soumava's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/soumava/" rel="nofollow" title="View Soumava's profile">Soumava</a></span>
+</p>
+</li>
+</ul>, ' #topic-132636 ', '\n', <ul class="post-132629 topic type-topic status-publish hentry odd bbp-parent-forum-72146 user-id-6867" id="topic-132629">
+<li class="bbp-topic-title">
+<a class="bbp-topic-permalink" href="http://www.geeksforgeeks.org/forums/topic/binary-tree-candle-burning-problem/" title="Binary tree candle burning problem">Binary tree candle burning problem</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-started-by">Started by: <a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/rj7/" rel="nofollow" title="View raja's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/rj7/" rel="nofollow" title="View raja's profile">raja</a></span>
+<span class="bbp-topic-started-in">in: <a href="http://www.geeksforgeeks.org/forums/forum/trees-specific-questions/">Trees specific questions</a></span>
+</p>
+</li>
+<li class="bbp-topic-voice-count">1</li>
+<li class="bbp-topic-reply-count">1</li>
+<li class="bbp-topic-freshness">
+<a href="http://www.geeksforgeeks.org/forums/topic/binary-tree-candle-burning-problem/" title="Binary tree candle burning problem">1 week, 4 days ago</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-freshness-author"><a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/rj7/" rel="nofollow" title="View raja's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/rj7/" rel="nofollow" title="View raja's profile">raja</a></span>
+</p>
+</li>
+</ul>, ' #topic-132629 ', '\n', <ul class="post-132627 topic type-topic status-publish hentry even bbp-parent-forum-72153 user-id-40943" id="topic-132627">
+<li class="bbp-topic-title">
+<a class="bbp-topic-permalink" href="http://www.geeksforgeeks.org/forums/topic/train-arrival-and-departure-times/" title="Train Arrival and departure times">Train Arrival and departure times</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-started-by">Started by: <a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/indu-anusha2008/" rel="nofollow" title="View indu.anusha2008's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/indu-anusha2008/" rel="nofollow" title="View indu.anusha2008's profile">indu.anusha2008</a></span>
+<span class="bbp-topic-started-in">in: <a href="http://www.geeksforgeeks.org/forums/forum/interview-questions/">Interview Questions</a></span>
+</p>
+</li>
+<li class="bbp-topic-voice-count">1</li>
+<li class="bbp-topic-reply-count">1</li>
+<li class="bbp-topic-freshness">
+<a href="http://www.geeksforgeeks.org/forums/topic/train-arrival-and-departure-times/" title="Train Arrival and departure times">1 week, 5 days ago</a>
+<p class="bbp-topic-meta">
+<span class="bbp-topic-freshness-author"><a class="bbp-author-avatar" href="http://www.geeksforgeeks.org/forums/users/indu-anusha2008/" rel="nofollow" title="View indu.anusha2008's profile"></a> <a class="bbp-author-name" href="http://www.geeksforgeeks.org/forums/users/indu-anusha2008/" rel="nofollow" title="View indu.anusha2008's profile">indu.anusha2008</a></span>
+</p>
+</li>
+</ul>, ' #topic-132627 ', '\n']

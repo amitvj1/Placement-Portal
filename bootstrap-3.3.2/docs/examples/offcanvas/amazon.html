@@ -1,0 +1,66 @@
+<!DOCTYPE html><html><head></head><body><p>Following is my experience. I hope it helps people out there, as I got help from other posts here before my interview.<span id='more-134667'></span></p>
+<p>Duration: 4 hours</p>
+<p><strong>interviewer #1: 8 am &#8211; 9 am</strong></p>
+<p>Q1) tell me your interest<br />
+-> Big Data<br />
+Q2) what&#8217;s latest thing you follow in it<br />
+-> Apache Spark<br />
+Q3) What is it and explain<br />
+-> told the standard MapRed and Hadoop vs Spark<br />
+Q4) what more features<br />
+-> told graph processing and MLLIB<br />
+Q5) Actual question starts here, given the binary tree, how will you serialize and deserialize it to the file?<br />
+-><br />
+answer1: Serialize => do in-order traversal and pre-order traversal and write it to a file<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;   Deserialize => build the binary tree using pre-order and in-order traversal<br />
+&nbsp;&nbsp;&nbsp;&nbsp;   he was not satisfied, gave me hint of no need to do complex in-order, pre-order thing</p>
+<p>answer2: BFS clicked me, told him to do BFS and write to a file level wise<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;  But he found a bug in deserialize method, I changed the serialize method for null values to speial character in file</p>
+<p>he was okay with it, and asked me to write a code for it<br />
+asked the complexity<br />
+told him, was not convinced wholly, then finally told him, was still not<br />
+left the room with think over it <img src='http://d2o58evtke57tz.cloudfront.net/wp-includes/images/smilies/icon_sad.gif' alt=':(' class='wp-smiley' /></p>
+<p><strong>interviewer #2: 9am &#8211; 10 am</strong><br />
+Q1) bang on target, given 2 timeframes, check if they overlap<br />
+-> s1, e1, s2, e2<br />
+&nbsp;&nbsp;   ep1 = epoch(s1),<br />
+&nbsp;&nbsp;   ep2<br />
+&nbsp;&nbsp;   ep3<br />
+&nbsp;&nbsp;   ep4</p>
+<p>&nbsp;&nbsp;  if ep1 <= ep3 <= e2 OR ep3<= ep1 <= ep4:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;     return T<br />
+&nbsp;&nbsp;  return F</p>
+<p>Q2) LCA in doubly binary tree !!!<br />
+-> I frowned, what is doubly binary tree!!<br />
+&nbsp;&nbsp;   it&#8217;s just every node has access to the parent</p>
+<p>but you need to find the LCA and you do not have access to root of tree!<br />
+some brainstorm, and I got it<br />
+what is time complexity:<br />
+worst case: O(n^2) in skewed tree<br />
+average case: was not sure, gave me hint, and I told him, was okay</p>
+<p>told him the 1st way, was convinced but hinted me the better way<br />
+Got his hint, and gave the answer, was satisfied</p>
+<p>Q3) given 2 strings, how would you find if they are anagrams of each other<br />
+-> solution 1: 2 hash   ( was okay but asked the better way)</p>
+<p>hinted me that no of characters are limited<br />
+solution 2: told him the way of count sort, i.e. use 2 count sort arrays<br />
+but he said no need of other array, you can do in single array</p>
+<p>told him the way, was satisfied</p>
+<p><strong>Interviewer #3: </strong><br />
+&#8211; started with his long intro<br />
+&#8211; asked mine, and then stopped me as I was talking at length<br />
+&#8211; asked me amour my search project<br />
+&#8211; asked me the basic design<br />
+&#8211; how did you deal with data when you cannot fit in memory<br />
+&#8211; how did you do intersection of posting lists<br />
+&#8211; what is time complexity</p>
+<p>then asked me to design the chase game<br />
+stumbled like hell, i guess this is going to be my rejection factor</p>
+<p><strong>Interviewer #4: (manager) behavioral round</strong><br />
+&#8211; gave his long intro<br />
+&#8211; asked about myself<br />
+&#8211; when did you feel that something could have been done in better way after delivering it in project<br />
+&#8211; when did you perform best way, as in what did you come up with that other could not do<br />
+&#8211; when did you go out of the way i.e. against your managers, or higher authority and deliver the best according to you</p>
+<p>&#8211; asked the system architecture question: design the TINYURL system in terms of server architecture i.e. HA, scalability and request processing </p>
+<p>&#8211; was satisfied, and left with good note.</p></body></html>

@@ -1,0 +1,17 @@
+The current system is doing all the processes manually. The personnel should refer all the records kept for years ago to simply know details. This so tedious and time consuming. This process is so difficult when the number of users increases.
+
+Drawbacks of Existing System
+There are a lot of limitations for the existing systems
+•	Time consuming
+•	Not accurate
+•	Error prone
+•	Large amounts of records are to be kept
+•	Complicated procedure
+•	May not complete in time
+•	Paper work is very tedious
+•	Report production is very slow
+•	All the registers are kept for a long period
+•	Searching for a file or record is very difficult
+
+Therefore we are moving for an automated approach on handling all the placement related services. 
+The students will choose our product because because its easier for them to query and search the previous year data and generalise on their preparation for company.

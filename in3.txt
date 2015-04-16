@@ -1,0 +1,269 @@
+http://www.geeksforgeeks.org/forums/topic/number-of-possible-strings-2/
+There is a string of n characters. It can be made of only a or b or c., with the following restrictions:
+1. No restriction on a
+2. b can occur at most once in the whole string
+3. c can occur simultaneously only once, And the maximum length of it occurring simultaneously can be only 2. it can occur independently any number of times.
+
+Example: aaaaaaaaaa, acacacacac, aaabccaaca are valid strings of size 10
+
+aaaabbbbcc is invalid because b occurs twice
+
+aaccc is invalid because c is occurring simultaneously with length > 2
+
+aaccaabcc is invalid because c is occurrimg simultaneously twice .
+
+Find the number of strings possible.
+The interviewer gave me hint to think in a recursive way, so may be that may be helpful
+
+
+http://www.geeksforgeeks.org/forums/topic/array-duplication/
+Suppose there is an array with n – 1 elements. Each of the elements fall in the range 1 to n. All elements of the array are distinct, except one. Find the two missing numbers between 1 and n which are not contained in the array.
+http://www.geeksforgeeks.org/forums/topic/amazon-interview-question-for-software-engineerdeveloper-about-algorithms-arrays-29/
+You are given an array of positive integers. Convert it to a sorted array with minimum cost (minimum number of operations). Only valid operation are
+1) Decrement -> cost = 1
+2) Delete an element completely from the array -> cost = value of element
+
+For example:
+4,3,5,6, -> cost 1  //cost is 1 to make 4->3
+10,3,11,12 -> cost 3 // cost 3 to remove 3
+
+
+http://www.geeksforgeeks.org/forums/topic/google-interview-question-17/
+Given the preorder of a Binary Search Tree.
+Can you construct the same binary search tree in O(n) time complexity. Space complexity should be constant.
+
+
+http://www.geeksforgeeks.org/forums/topic/how-to-sort-a-stack-without-using-external-stack/
+How to sort a stack without using external stack?
+
+
+http://www.geeksforgeeks.org/forums/topic/array-asked-in-google/
+Given an int array which might contain duplicates, find the largest
+subset of it which form a sequence.
+Eg. {1,6,10,4,7,9,5}
+then ans is 4,5,6,7
+Sorting is an obvious solution. Can this be done in O(n) time
+
+
+http://www.geeksforgeeks.org/forums/topic/kindly-reply-this/
+is this importent to read every topic and every heading of the book INTRODUCTION TO ALGORITHMS (COREMAN) for a fresher.
+ and plz kindly suggest me a reference book for DATA STRUCTURE.
+  thank you.
+http://www.geeksforgeeks.org/forums/topic/trees-8/
+given only preorder traversal of bst  , find post order traversal of it  without constructing tree?
+
+
+http://www.geeksforgeeks.org/forums/topic/a-probability-question-2/
+Hi,
+I had a placement test a few days ago. Here is a problem that was asked. Can someone please tell me how to solve this. I have the interview in a week!
+There are n cities and n salesmen. The probability that each salesman would die in each city is given in a matrix (A[i][j]=probability the ith salesman would die in the jth city). Assign each salesman to a city such that the total probability is minimum.
+Thank you!
+http://www.geeksforgeeks.org/forums/topic/about-a-book/
+is yeshwant kanetkar’s let us c is good enough to sart learning c language?
+http://www.geeksforgeeks.org/forums/topic/gate-2007-question/
+gate 2005(IT)
+2  A line L in a circuit is said to have a stuck-at-0 fault if the line  permanently has a logic value 0. Similarly a line L in a circuit is said  to have a stuck-at-1 fault if the line permanently has a logic value 1.  A circuit is said to have a multiple stuck-at fault if one or more  lines have stuck at faults. The total number of distinct multiple  stuck-at faults possible in a circuit with N lines is
+A) 3^N
+B) 3^N-1
+C) 2^N-1
+D) 2^N
+Can anyone tell me what is the answer and WHY??
+http://www.geeksforgeeks.org/forums/topic/aloha-numbers/
+Recently my friend was asked in an interview-
+Aloha numbers are composed only of 4 and 7
+For any given non-aloha number(the input will always be a non aloha number) find the next aloha number
+e.g.
+I : 1234 O: 4444
+I : 4231 O: 4444
+I : 4872 O: 7444
+I : 4472 O: 4474
+I : 7272 O: 7444
+I : 9812 O: 74444 
+you need to write a method
+String nextAlohaNumber(int num)
+the next aloha number could be greater than the integer range itself so the expected output is in string format
+http://www.geeksforgeeks.org/forums/topic/operator-overloading/
+Why ? . :: * and sizeof typeid  can not overloaded.Please let me understand the reason briefly.
+http://www.geeksforgeeks.org/forums/topic/why-quick-sort-is-better-than-merge-sort/
+Even though Quick Sort has a worst case of O(n^2) complexity which is slower than the worst case which is O(nlogn) for merge sort…why is quick sort is better than Merge sort in practice?
+http://www.geeksforgeeks.org/forums/topic/program-analysis-in-computer-science/
+Inputs: A sequence A = (a1, . . . , an) of n real numbers, and two real
+numbers p and q.
+Output: The number of elements of A that are more than or equal to
+p and less than or equal to q.
+(a) Give a recursive algorithm, NumberInRange(A, p, q, i) that solves
+this problem. Note that the parameter i is needed to record
+which part of the sequence A is being considered for a given
+recursive call. So NumberInRange(A, p, q, i) returns the number
+of values within the range that are in the subsequence (a1, . . . , ai).
+http://www.geeksforgeeks.org/forums/topic/complexicity/
+Show that if there are 26 coins with one counterfeit coin (either heavier or lighter than a genuine coin), the counterfeit coin can be found in three weightings. Generalize this to find an expression for the number of weightings needed to find the counterfeit coin among n coins.
+http://www.geeksforgeeks.org/forums/topic/facebook-interview-question-for-software-engineerdeveloper-about-algorithms-3/
+Given a set S, find all the maximal subsets whose sum <= k. For example, if S = {1, 2, 3, 4, 5} and k = 7
+Output is: {1, 2, 3} {1, 2, 4} {1, 5} {2, 5} {3, 4}
+
+Hint:
+– Output doesn’t contain any set which is a subset of other.
+– If X = {1, 2, 3} is one of the solution then all the subsets of X {1} {2} {3} {1, 2} {1, 3} {2, 3} are omitted.
+– Lexicographic ordering may be used to solve it
+
+
+http://www.geeksforgeeks.org/forums/topic/find-transition-point-of-odd-to-even-or-even-to-odd-number-in-a-array/
+I have been asked this question in Amazon interview.
+Given an array of even and odd numbers. Even numbers followed by odd numbers or vice-versa. find out transition point of odd to even or even to odd number.
+e.g :
+[2,4,6,7,9] -> index 2
+[1,3,5,4,6,8] -> index 1
+[2,4,6,8] -> index -1 as there is no transition only even are present
+http://www.geeksforgeeks.org/forums/topic/mincost-program-extension/
+Given a grid containing i*j integers.You stand initially on the first row, move right or down. You cannot go out of the grid. Also you can
+start off from anywhere on the the first row, and end anywhere on the last row. All all the integers In
+the path you take. Print the max value that you can achieve on any valid path.
+in the below case i=j=3;
+Sample?
+Input
+-111
+121
+111
+Sample ?
+Output
+5
+http://www.geeksforgeeks.org/forums/topic/interview-question-for-software-engineerdeveloper-about-linked-lists/
+Input : Two large singly linked lists representing numbers with most significant digit as head and least significant as last node.
+
+Output: Difference between the numbers as a third linked list with Most significant digit as the head.
+
+Eg:
+—
+Input:
+A = 5->4->2->0->0->9->0->0
+B = 1->9->9
+Output:
+C = 5->4->2->0->0->7->0->1
+
+Required complexity :
+O(n)
+
+Constraint:
+Reversing linked list is NOT allowed
+
+
+http://www.geeksforgeeks.org/forums/topic/output-in-c/
+#include
+int main()
+{
+int i=2;
+printf(“%d%d%d”,i,i++,++i);
+return 0;
+}
+why the output is 434 in gcc.It should be 433…
+http://www.geeksforgeeks.org/forums/topic/return-type-of-a-function-if-void/
+If a function is declared with return type void, a return statement containing an expression generates a warning and the expression is not evaluated. IS IT CORRECT?????
+http://www.geeksforgeeks.org/forums/topic/samsung-test-question/
+You are given an mxn grid, where (0,0) refers top most left position and (m-1,n-1) the bottom most right. The grid is filled with ones. All positions in the grid that are blocked are filled with zeros. You are given this grid and are assured that there exists atleast one path from (0,0) to (m-1, n-1). Find the minimum distance of the path from (0,0) to (m-1, n-1) given that you are allowed to move only vertically, horizontally and diagonally. [8 
+http://www.geeksforgeeks.org/forums/topic/flip-and-count/
+You are given a binary array with N elements: d[0], d[1], … d[N – 1].
+You can perform AT MOST one move on the array: choose any two integers [L, R], and flip all the elements between (and including) the L-th and R-th bits. L and R represent the left-most and right-most index of the bits marking the boundaries of the segment which you have decided to flip. 
+What is the maximum number of ‘1’-bits (indicated by S) which you can obtain in the final bit-string? 
+‘Flipping’ a bit means, that a 0 is transformed to a 1 and a 1 is transformed to a 0 (0->1,1->0).
+Input Format
+An integer N
+Next line contains the N bits, separated by spaces: d[0] d[1] … d[N – 1] 
+Output:
+S 
+Constraints:
+1 
+d[i] can only be 0 or 1f
+0 
+
+Sample Input:
+8
+1 0 0 1 0 0 1 0 
+Sample Output:
+6 
+Explanation: 
+We can get a maximum of 6 ones in the given binary array by performing either of the following operations:
+Flip [1, 5] ==> 1 1 1 0 1 1 1 0
+http://www.geeksforgeeks.org/forums/topic/c-programming-prime-number/
+I need c program to find smallest three digit prime number which is 101?
+How could I do it?same way for smallest four digit prime number too.
+http://www.geeksforgeeks.org/forums/topic/how-would-you-deal-with-an-interview-question-in-an-unfamiliar-subject-matter/
+I would like some advice on how to handle the following situation differently.  How to deal with an interview question when you are not familiar with the subject area.
+I made through the series of phone interviews and online coding interviews with no problem. Next, Google brought me in for an in-person interview for about 4-5 interviews including lunch. I’m sure everyone who has interviewed has experienced this situation. Here’s how one question evolved. The interview was asking questions and I was talking through the problem and writing on the whiteboard. I actually had no idea what a solution to the problem was because I was not familiar with the subject area of the question. I tried to brainstorm some ideas in hope that I might stumble upon a possible solution. After several attempts, I probably made the mistake of saying “I have no idea”. I did not get hired but it was still a wonderful experience being interviewed by Google and I hope to have an opportunity to try again.
+http://www.geeksforgeeks.org/forums/topic/inorder-preorder-postorder-traversal-of-a-bst/
+#include 
+#include 
+struct node {
+	int data;
+	struct node* left;
+	struct node* right;
+};
+struct node* GetNewNode(int val) {
+	 struct node* newnode;
+	 newnode=(struct node*)malloc(sizeof(struct node));
+	newnode->data = val;
+	newnode->left = newnode->right = NULL;
+	return newnode;
+}
+struct node* insert(struct node* root,int val) {
+	if(root == NULL)
+		root = GetNewNode(val);
+	else if(val data)
+		root->left = insert(root->left,val);
+	else
+		root->right = insert(root->right,val);
+	return root;
+}
+void pre(struct node* root)
+{
+	if(root!=NULL)
+	{
+		printf(“%d \n”,root->data);
+		pre(root->left);
+		pre(root->right);
+	}
+}
+void in(struct node* root)
+{
+    if(root!=NULL)
+    {
+	in(root->left);
+    printf(“%d\n”,root->data);
+	in(root->right);
+    }
+}
+void post(struct node* root)
+{
+	if(root!=NULL)
+	{
+	post(root->left);
+	post(root->right);
+	printf(“%d\n”,root->data);
+    }
+}
+int main(void) {
+	struct node* root;
+	root=(struct node*)malloc(sizeof(struct node));
+	root=NULL;
+	insert(root,5);
+	insert(root,12);
+	insert(root,23);
+	insert(root,4);
+	insert(root,26);
+	insert(root,3);
+	insert(root,20);
+	insert(root,21);
+	in(root);
+	pre(root);
+	post(root);
+	return 0;
+}
+Why does the output screen is blank after the execution of the program. Is this not a correct way of creating and traversing a BST tree? in case it is, please help me with debugging the error
+http://www.geeksforgeeks.org/forums/topic/student-internship/
+I am Soumava Bhattacharjee, a student of Electrical & Electronics Engineering, in 2nd year at SRM University at Kattankulathur, Tamil Nadu. During my vacation in December, 2014 and again on June, 2015, I want to do some industrial training/ internship. Can you suggest where there is scope and whom to contact?
+http://www.geeksforgeeks.org/forums/topic/binary-tree-candle-burning-problem/
+You are given a binary tree. Nodes doesn’t carry any value. Consider all the left and right pointers as candle when you picture the binary tree. The pointer/lines connecting all the nodes are candles. All the candle burn in unit time. We lit the candle at the leaf nodes. The candle burns upward only. Find the time taken for all the candles to burn out?
+http://www.geeksforgeeks.org/forums/topic/train-arrival-and-departure-times/
+This is the question asked to me in DE Shaw interview:
+Train arrival times and departure times are listed in two arrays. 
+Give an algorithm to find the number of platforms minimum required so that no train will be waiting.
