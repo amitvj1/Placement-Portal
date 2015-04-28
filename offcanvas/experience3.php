@@ -39,7 +39,7 @@ if (is_dir($dir)){
     
  $fl_array_amazon = preg_grep("/amazon\d+\.txt$/", $file_arr);
     $no_of_matches_amazon=sizeof($fl_array_amazon);
-    echo $no_of_matches_amazon;
+    //echo $no_of_matches_amazon;
  $fl_array_microsoft = preg_grep("/microsoft\d+\.txt$/", $file_arr);
     $no_of_matches_microsoft=sizeof($fl_array_microsoft);
  
@@ -114,14 +114,95 @@ if (is_dir($dir)){
       p1.style.display = "none";
       p1.style.display = "block";
       h.innerHTML = "Google";
-      p1.src = "exp_files/google1.html";
+      p1.src = "exp_files/google1.txt";
       company="google";
      n=parseInt(<?php echo json_encode($no_of_matches_google);?>);
      gen_link();
     }
+    function adobe()
+    {
+      p1.style.display = "none";
+      p1.style.display = "block";
+      h.innerHTML = "Adobe";
+      p1.src = "exp_files/adobe1.txt";
+      company="adobe";
+     n=parseInt(<?php echo json_encode($no_of_matches_adobe);?>);
+     gen_link();
+    }
+    function directi()
+    {
+      p1.style.display = "none";
+      p1.style.display = "block";
+      h.innerHTML = "Directi";
+      p1.src = "exp_files/directi1.txt";
+      company="directi";
+     n=parseInt(<?php echo json_encode($no_of_matches_directi);?>);
+     gen_link();
+    }
+    function cisco()
+    {
+      p1.style.display = "none";
+      p1.style.display = "block";
+      h.innerHTML = "Cisco";
+      p1.src = "exp_files/cisco1.txt";
+      company="cisco";
+     n=parseInt(<?php echo json_encode($no_of_matches_cisco);?>);
+     gen_link();
+    }
+    function facebook()
+    {
+      p1.style.display = "none";
+      p1.style.display = "block";
+      h.innerHTML = "Facebook";
+      p1.src = "exp_files/facebook1.txt";
+      company="facebook";
+     n=parseInt(<?php echo json_encode($no_of_matches_facebook);?>);
+     gen_link();
+    }
+    function morgan()
+    {
+      p1.style.display = "none";
+      p1.style.display = "block";
+      h.innerHTML = "Morgan Stanley";
+      p1.src = "exp_files/morgan1.txt";
+      company="morgan";
+     n=parseInt(<?php echo json_encode($no_of_matches_morgan);?>);
+     gen_link();
+    }
+    function flipkart()
+    {
+      p1.style.display = "none";
+      p1.style.display = "block";
+      h.innerHTML = "Flipkart";
+      p1.src = "exp_files/flipkart1.txt";
+      company="flipkart";
+     n=parseInt(<?php echo json_encode($no_of_matches_flipkart);?>);
+     gen_link();
+    }
+    function yahoo()
+    {
+      p1.style.display = "none";
+      p1.style.display = "block";
+      h.innerHTML = "Yahoo";
+      p1.src = "exp_files/yahoo1.txt";
+      company="yahoo";
+     n=parseInt(<?php echo json_encode($no_of_matches_yahoo);?>);
+     gen_link();
+    }
+    function microsoft()
+    {
+      p1.style.display = "none";
+      p1.style.display = "block";
+      h.innerHTML = "Microsoft";
+      p1.src = "exp_files/microsoft1.txt";
+      company="microsoft";
+     n=parseInt(<?php echo json_encode($no_of_matches_microsoft);?>);
+     gen_link();
+    }
+    
     
     function gen_link(){
-      
+      clear();
       for(i = 1;i <= n;i++)
       {
         var button = document.createElement("input");
@@ -141,6 +222,15 @@ if (is_dir($dir)){
 
 
 
+    }
+    function clear(){
+        var list = document.getElementById("toAppend").getElementsByTagName("input");
+	if(list == null){}
+	else{
+  	for (var k = list.length - 1; k >= 0; k--) {
+    var item = list[k];
+    item.parentNode.removeChild(item);
+  }}
     }
 
     </script>
@@ -162,7 +252,8 @@ if (is_dir($dir)){
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">PES university-placement portal</a>
+          <a class="navbar-brand" href="#" style='margin-left:300px;'>PES university-placement portal</a>
+	  <a href = "../html5up-helios/carousel/carousel/student_afterlogin.php" class="navbar-brand" style='color:White;margin-left:300px;'>Home</a>
         </div>
         <!--<div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
@@ -172,7 +263,7 @@ if (is_dir($dir)){
           </ul>
         </div>--><!-- /.nav-collapse -->
         <a href="addExp.html">
-        <button type="submit" class="btn btn-success" style="position:absolute;top:10px;left:1150px;">Share Experince</button></a>
+        <button type="submit" class="btn btn-success" style="position:absolute;top:10px;left:1150px;">Share Experience</button></a>
       </div><!-- /.container -->
     </nav><!-- /.navbar -->
 
@@ -201,13 +292,13 @@ if (is_dir($dir)){
             <a href="#" class="list-group-item" onclick = "amazon()">Amazon</a>
             <a href="#" class="list-group-item" onclick = "google()">Google</a>
             <a href="#" class="list-group-item" onclick = "microsoft()">Microsoft</a>
-            <a href="#" class="list-group-item">Link</a>
-            <a href="#" class="list-group-item">Link</a>
-            <a href="#" class="list-group-item">Link</a>
-            <a href="#" class="list-group-item">Link</a>
-            <a href="#" class="list-group-item">Link</a>
-            <a href="#" class="list-group-item">Link</a>
-            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item" onclick = "adobe()">Adobe</a>
+            <a href="#" class="list-group-item" onclick = "directi()">Directi</a>
+            <a href="#" class="list-group-item" onclick = "cisco()">Cisco</a>
+            <a href="#" class="list-group-item" onclick = "facebook()">Facebook</a>
+            <a href="#" class="list-group-item" onclick = "flipkart()">Flipkart</a>
+            <a href="#" class="list-group-item" onclick = "morgan()">Morgan Stanley</a>
+            <a href="#" class="list-group-item" onclick = "yahoo()">Yahoo</a>
           </div>
         </div><!--/.sidebar-offcanvas-->
       </div><!--/row-->

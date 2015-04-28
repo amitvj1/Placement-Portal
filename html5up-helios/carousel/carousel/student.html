@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]> <html class="lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Student Sign up Form</title>
+  <link rel="stylesheet" href="css/style.css">
+  <!--[if lt IE 9]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  <style type="text/css">
+	#link
+    {
+      position:absolute;
+      top:40px; width:600px ;height:100px; left:1300px;
+    }
+    #pes
+    {
+      position:absolute; top:30px; width:600px ;height:100px; left:90px; 
+    }
+    #first
+    {
+            background-color:black;
+            border-style: none;
+            height: 80px;
+            width: 1400px;
+            
+    }
+   
+    
+      
+    
+    #third
+    {
+      color: white;
+      position: relative;
+      left: 10px;
+      top: 20px;
+      
+    }
+    .myButton {
+	
+	box-shadow:inset 0px 39px 0px -24px #bbdaf7;
+	background-color:#79bbff;
+	
+	border-radius:4px;
+	border:1px solid #84bbf3;
+	display:inline-block;
+	cursor:pointer;
+	color:black;
+	font-family:arial;
+	font-size:15px;
+	padding:6px 15px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #528ecc;
+	
+}
+.myButton:hover {
+	background-color:#378de5;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+	
+}
+  </style>
+  
+  
+  <script type="text/javascript">
+    function validate()
+    {
+	var phn=document.getElementById("contactnumber");
+	if (phn.value.length<10||phn.value.length>10)
+	{
+	  alert("Inavlid contact number");
+	  return false;
+	}
+    }
+  </script>
+
+
+
+
+  
+  <div id="first">
+      <div>
+	     <p id="pes"><b><font size="6px" color="white">PES UNIVERSITY</font></b></p>
+	     
+	      <div>
+		<p id="link">
+		<a  href="C:\xampp\htdocs\bootstrap-3.3.2\bootstrap-3.3.2\docs\examples\html5up-helios\index.html">Home</a>&nbsp&nbsp&nbsp&nbsp
+		
+	      </p>
+            </div>
+	</div>
+  </div>
+   <div  style="position:absolute; top:15px; width:100px ;height:100px;left: 30px;" >
+	    <img src="pes.png" style="width:50px;height:50px;">
+    </div>
+  </div>
+    
+  
+  
+  
+  
+  
+      <form name="myForm" method="post" action="second.html" class="login" onsubmit="return validateForm()">
+	
+	
+	
+	  
+	
+	<p>
+	  <label for="login">Name:</label>
+	  <input type="text" name="name" id="name" placeholder="Name" required>
+	</p>
+    
+	<p>
+	  <label for="login">USN:</label>
+	  <input type="text" name="usn" id="usn" placeholder="USN" required>
+	</p>
+    
+    <p>
+      <label for="password">Password:</label>
+      <input type="password" name="password" id="password" placeholder="Password" required>
+    </p>
+    <p>
+	  <label for="login">Father'sName:</label>
+	  <input type="text" name="Father'sName" id="name" placeholder="Father'sName" required>
+	</p
+    <p>
+      <label for="password"> Address:</label>
+      <input type="text" name="address" id="address" placeholder="Temporary Address" required>
+    </p>
+    <p>
+      <label for="password"> Address:</label>
+      <input type="text" name="address" id="address" placeholder="Permanent Address" required>
+    </p>
+    
+    
+    <p>
+      <label for="login">DOB:</label>
+      <input type="date" name="date" id="date"placeholder="Date Of Birth" required>
+    </p>
+    <p>
+      <label for="login">ContactNo:</label>
+      <input type="text" name="contactnumber" id="contactnumber" placeholder="Contact No" required>
+    </p>
+    <p>
+      <label for="login">Email Id:</label>
+      <input type="email" name="email" id="email" placeholder="Email" required">
+    </p>
+    <p>
+      <label for="login">10th Marks:</label>
+      <input type="number" name="10th Marks" id="date"placeholder="10th Marks" required>
+    </p>
+    <p>
+      <label for="login">12th Marks:</label>
+      <input type="number" name="12th Marks" id="date"placeholder="12th Marks" required>
+    </p>
+    <p>
+      <label for="login">CGPA:</label>
+      <input type="number" name="CGPA" id="date"placeholder="CGPA" required>
+    </p>
+    
+    <p>
+      <label for="login">Admission:</label><br>
+      <input type="checkbox" name="cet" value="cet">CET<br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+      <input type="checkbox" name="comed" value="comed">COMED-K 
+    </p>
+   <p>
+      <label for="login">CET Rank:</label>
+      <input type="number" name="CET Rank" id="date"placeholder="CET Rank" >
+    </p>
+   <p>
+      <label for="login">COMEDRank:</label>
+      <input type="number" name="COMED Rank" id="date"placeholder="COMED Rank" >
+    </p>
+
+    
+    
+           <label for="login">Branch:</label>
+
+    <p>
+      <select name="Branch">
+	<option value="cse">CSE</option>
+	<option value="ise">ISE</option>
+	<option value="eee">EEE</option>
+	<option value="ece">ECE</option>
+	<option value="te">TE</option>
+	<option value="me">ME</option>
+	<option value="cv">CV</option>
+	<option value="bt">BT</option>
+	</select>
+     
+    </p><br>
+   <p>UploadResume:<input name="cv" type="file" /></p><br>
+   <p>Upload Photo:<input type="file" name="pic" accept="image/*"></p>
+                         
+	
+    <div  style="position:absolute; top:1000px; width:200px ;height:100px; left:150px; " >
+	
+    
+    <a href="new_topic.html" class="myButton" id="a1" align= "right" onclick="validate()">SUBMIT</a>
+    </div>
+    
+   
+    
+    
+  </form>
+    
+  </body>
+</html>

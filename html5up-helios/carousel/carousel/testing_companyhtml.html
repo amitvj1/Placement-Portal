@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]> <html class="lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Student Sign up Form</title>
+  <link rel="stylesheet" href="css/style.css">
+  <!--[if lt IE 9]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  <style type="text/css">
+    #first
+    {
+            background-color:black;
+            border-style: none;
+            height: 130px;
+            width: 1400px;
+            
+    }
+   
+    
+      
+    
+    #third
+    {
+      color: white;
+      position: relative;
+      left: 10px;
+      top: 20px;
+      
+    }
+    .myButton {
+	
+	box-shadow:inset 0px 39px 0px -24px #bbdaf7;
+	background-color:#79bbff;
+	
+	border-radius:4px;
+	border:1px solid #84bbf3;
+	display:inline-block;
+	cursor:pointer;
+	color:black;
+	font-family:arial;
+	font-size:15px;
+	padding:6px 15px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #528ecc;
+	
+}
+.myButton:hover {
+	background-color:#378de5;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+	
+}
+  </style>
+  
+  
+ */ <script type="text/javascript">
+    function validate()
+    {
+	var phn=document.getElementById("mob");
+	if (phn.value.length<10||phn.value.length>10)
+	{
+	  alert("Inavlid contact number");
+	  return false;
+	}
+    }
+  </script>
+
+
+
+  
+  <div id="first">
+   <div style="position:absolute; top:60px; width:600px ;height:100px; left:60px; ">
+      <p><b><font size="8px" color="white">PES UNIVERSITY</font></b></p>
+      <p><b><font size="4px" color="white">Company Sign-Up Form</font></b></p>
+    </div>
+    <div  style="position:absolute; top:25px; width:100px ;height:100px; right:20px; " >
+      <img src="pes.png" style="width:90px;height:90px;">
+    </div>
+  </div>
+    
+  
+  
+  
+  
+  
+      <form name="myForm" method="post" action="company.php" class="login" enctype="multipart/form-data">
+	
+	
+	
+	  
+	
+	<p>
+	  <label for="name">Company Name:</label>
+	  <input type="text" name="name" id="name" placeholder="Name" required>
+	</p>
+  <br/><br/>
+    
+	<p>
+    <label for="name">Website:</label>
+    <input type="text" name="web" id="web" placeholder="Name" required>
+  </p>
+    
+    <!--<p>
+      <label for="password">Password:</label>
+      <input type="password" name="password" id="password" placeholder="Password" required>
+    </p>-->
+   
+	<br><br>
+	
+	
+	
+	<!--<p>
+      <label for="login">Age</label>
+      <input type="text" name="age" id="age" placeholder="Age" required>
+    </p>-->
+	
+	
+
+    <p>
+      <label for="paddress">Address:</label>
+      <input type="text" name="paddress" id="paddress" placeholder="Permanent Address" required>
+    </p>
+    <br><br>
+    
+    
+	<p>
+      <label for="mobile">contact no::</label>
+      <input type="text" name="mobile" id="mob" placeholder="Mob No." required>
+    </p>
+	<br><br>
+	<p>
+      <label for="login">Email Id:</label>
+      <input type="email" name="email" id="email" placeholder="Email" required>
+    </p>
+	<br>
+  <p>
+      <label for="pic">Logo:</label>
+      <input type="file" name="pic" id="pic" placeholder="Email" accept="image/*" >
+    </p>
+  <br>
+  
+	<br><br>
+
+    
+    
+        
+
+  
+    </p><br>
+	
+	<input type="submit" value="submit" id="sub"/>
+	</form>
+	
+
+
+  </body>
+</html>

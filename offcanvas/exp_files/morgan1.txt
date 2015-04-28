@@ -1,0 +1,20 @@
+Morgan Stanley recently visited our campus for its full time Technology Analyst position and Summer Analyst (Intern) position. I applied for full time.
+
+There were 5 rounds in all.
+1. WRITTEN ROUND : There were basically 2 parts : Aptitude and Coding.
+Aptitude Part : There were 30 questions to be completed in 45 minutes. There were 10 aptitude questions which were quite time-taking. Questions were
+from Data Interpretation as well. Then we had to choose a section out of C/C++/JAVA and the rest 20 questions were from your chosen section. The chosen section was also time-consuming.
+Coding Test : There were 3 questions to be completed in 1 hour. Program 1 was to find the required element of Pascal’s triangle. Program 2 was to count all the palindromic substrings in a string. I am sorry but I do not remember Program 3.
+ 
+2. TECHNICAL INTERVIEW 1 : It lasted for around 30-35 minutes. Questions were on array, hash map, file handling and string theory. All questions were generally algorithmic in nature.
+
+ 
+3. HR INTERVIEW : It lasted for around 50-55 minutes. We were basically grilled in this interview.
+
+ 
+4. TECHNICAL INTERVIEW 2 : It lasted for around 1 hour. In this round, there were questions based on real-life scenario like designing a shopping cart for an e-commerce website etc. Then there were algorithmic questions on queue, graph and trees. A problem was given and I was asked to reason out the best data structure to solve that problem. There were simple problems on linked list.
+
+ 
+5. GROUP TASK ROUND : It was an entertaining round but was quite pressurising. We were divided into groups and asked to make something with LEGO Blocks that they had provided. There is a time-constraint in this round. We had to explain all the design aspects of our construction like name, choice of colour, significance of buildings, structure strength etc.
+
+Finally after 5 rounds of interviews, I got selected. I thank my parents, friends and my seniors. Of course, geeksforgeeks is not to be left behind!!!!!!

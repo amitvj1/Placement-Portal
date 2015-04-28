@@ -1,0 +1,3 @@
+Functionalities Specification
+Architectural styles
+Student selecting or filtering companies 

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>	
+<script>
+function loadXMLDoc()
+{
+	var xmlhttp=new XMLHttpRequest();
+	xmlhttp.open("GET","script.php",true);
+	xmlhttp.send()
+}
+</script>
+</head>
+<body>
+
+<h2>AJAX</h2>
+<form onsubmit='loadXMLDoc()'>
+	<input type="submit">Request data</input>
+<div id="myDiv"></div>
+
+</body>
+</html>
